@@ -565,7 +565,7 @@ Player.prototype.onFileData = function (data, start, end, seq) {
             break;
         case decoderStateInitializing:
             this.onFileDataUnderDecoderInitializing();
-            this.seekTo(12000);
+            // this.seekTo(12000);
             break;
         case decoderStateReady:
             this.onFileDataUnderDecoderReady();
