@@ -1,4 +1,4 @@
-prefix=/mnt/d/work/open_source/ffmpeg/../WasmVideoPlayer/dist
+prefix=/Users/devyk/Data/Project/piaoquan/PQMedia/scripts/dist
 exec_prefix=${prefix}
 libdir=${prefix}/lib
 includedir=${prefix}/include
